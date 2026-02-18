@@ -1,14 +1,15 @@
 # 🚀 Azure Databricks End-to-End Data Engineering Project
 
-<img width="1527" height="386" alt="image" src="https://github.com/user-attachments/assets/d89cf5ee-e5c2-41ba-8e04-229a65fa38ff" />
-
-<img width="1134" height="211" alt="image" src="https://github.com/user-attachments/assets/c9857073-6047-40eb-8d4a-076b184537bf" />
-
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00B3A4?style=for-the-badge&logo=delta&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+## DataFlows & Workflows
+<img width="1134" height="211" alt="image" src="https://github.com/user-attachments/assets/c9857073-6047-40eb-8d4a-076b184537bf" />
+<img width="1527" height="386" alt="image" src="https://github.com/user-attachments/assets/d89cf5ee-e5c2-41ba-8e04-229a65fa38ff" />
+
 
 # 🚀 Azure Databricks End-to-End Data Engineering Project
 
