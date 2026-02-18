@@ -7,7 +7,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Project Architecture
-![Uploading image1.png…]()
+<img width="938" height="672" alt="image1" src="https://github.com/user-attachments/assets/3bd1947b-bf60-46d1-a8d8-b229dcedaf3a" />
+
 
 
 ## DataFlows & Workflows
