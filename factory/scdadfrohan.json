@@ -1,0 +1,9 @@
+{
+	"name": "scdadfrohan",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bc9b0902-75ce-4a15-afa9-86b0fa3e2aa3",
+		"tenantId": "b28ca404-305e-47c3-9e58-c3805a2dc95d"
+	}
+}
